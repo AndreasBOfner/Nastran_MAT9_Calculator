@@ -1,0 +1,1 @@
+This is a python script which can be used to calculate the MAT9 material cards which have to be used to model orthotropic materials such as compund structures like those commonly found in the rotors of electric motors in MSC Nastran. 
